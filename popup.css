@@ -1,0 +1,11 @@
+body {
+  padding: 20px;
+}
+
+.url-select {
+  display: grid;
+  width: 300px;
+  grid-template-rows: 35px 35px 35px;
+  grid-template-columns: 50px 200px;
+  margin-bottom: 20px;
+}
